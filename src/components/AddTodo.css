@@ -1,0 +1,22 @@
+.add-todo-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .add-todo-input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .add-todo-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  .add-todo-button:hover{
+    background-color: blue;
+    transition: 1s;
+  }
+  
